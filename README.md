@@ -26,7 +26,7 @@
 
 <img
     height=200 align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=kevinthedang&theme=react&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=kevinthedang&theme=react"
 />
 
 <img
