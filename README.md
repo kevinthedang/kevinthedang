@@ -1,5 +1,5 @@
 ## Hello
-I will be away starting Aug 2nd :), Probably back late August.
+I just got married Aug 9th, 2024 and i'm back to coding :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinthedang)
