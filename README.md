@@ -10,11 +10,11 @@ I just got married Aug 9th, 2024 and i'm back to coding :)
     <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=discord-ollama&theme=react" />
 </a>
 
-## Projects On-Hold
 <a href="https://github.com/kevinthedang/minecraft-ollama">
     <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=minecraft-ollama&theme=react"/>
 </a>
 
+## Projects On-Hold
 <a href="https://github.com/kevinthedang/bluetooth-smart-scanner">
     <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=bluetooth-smart-scanner&theme=react"/>
 </a>
