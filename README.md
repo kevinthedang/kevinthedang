@@ -2,7 +2,16 @@
 I just got married Aug 9th, 2024 and i'm back to coding :)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinthedang)
+## Connect with me  
+<div align="center">   
+<a href="https://linkedin.com/in/kevinthedang" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.youtube.com/user/kevinthedang" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+</div>
 
 ## Current Projects
 <!-- Repos with React Styling -->
@@ -19,5 +28,9 @@ I just got married Aug 9th, 2024 and i'm back to coding :)
     <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=bluetooth-smart-scanner&theme=react"/>
 </a>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=kevinthedang&show_icons=true&count_private=true&hide_border=true" align="center" />
+
 ![](https://github-profile-trophy.vercel.app/?username=kevinthedang&theme=react&no-frame=false&no-bg=false&margin-w=4)
+
+
