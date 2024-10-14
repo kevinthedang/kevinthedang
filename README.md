@@ -1,5 +1,5 @@
 ## Hello
-I just got married Aug 9th, 2024 and i'm back to coding :)
+Learning how NAS's and Orange PI's work!
 
 ## 🌐 Socials:
 ## Connect with me  
