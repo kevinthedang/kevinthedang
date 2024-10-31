@@ -26,7 +26,7 @@ Learning how NAS's and Orange PI's work!
     <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=CM3588-Assembly&theme=react"/>
 </a>
 
-<a href="[https://github.com/kevinthedang/CM3588-Assembly](https://github.com/kevinthedang/home-server-guide)">
+<a href="https://github.com/kevinthedang/home-server-guide">
     <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinthedang&repo=home-server-guide&theme=react"/>
 </a>
 
