@@ -1,6 +1,10 @@
 ### Introduction
 Hello! My name is Kevin Dang and I'm an experienced software developer who loves making things that are totally useless just to learn.  
 
+Current repo I am trying to work on -> [List Vault](https://github.com/kevinthedang/lists-vault)
+
+Main Project I am trying to maintain -> [Discord Bot that uses Ollama](https://github.com/kevinthedang/discord-ollama)
+
 I am trying to learn the following:
 * Server management
 * Orange PI/Arduino stuff
