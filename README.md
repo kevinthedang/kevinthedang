@@ -6,13 +6,15 @@ Current repo I am trying to work on -> [List Vault](https://github.com/kevinthed
 Main Project I am trying to maintain -> [Discord Bot that uses Ollama](https://github.com/kevinthedang/discord-ollama)
 
 I am trying to learn the following:
-* Server management
-* Orange PI/Arduino stuff
+* Lua and [Ravenfield Modding](https://github.com/kevinthedang/ravenfield-modding)
+* 3D Modeling with [Blender](https://www.blender.org/)
+* Server Management and Adding Services
+* [Orange PI](http://www.orangepi.org/) and [Arduino](https://www.arduino.cc/) stuff
 * Electrical/Computer Engineering fun stuff
 * Put content on youtube since sometimes Documentation on GitHub is usually just for me lol
 
 #### Useless Social Media Links
-<div align="center">   
+<div>   
 <a href="https://linkedin.com/in/kevinthedang" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
