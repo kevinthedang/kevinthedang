@@ -1,9 +1,15 @@
 ### Introduction
 Hello! My name is Kevin Dang and I'm an experienced software developer who loves making things that are totally useless just to learn.  
 
-Current repo I am trying to work on -> [List Vault](https://github.com/kevinthedang/lists-vault)
+New Projects:
+* [How to Play Craps](https://github.com/kevinthedang/craps-simulation): Learning Craps and the Statistics/Strategy
+* [Ravenfield Modding and 3D Modeling](https://github.com/kevinthedang/ravenfield-modding): Ravenfield is a fun game and I want to learn how to make mods for it!
 
-Main Project I am trying to maintain -> [Discord Bot that uses Ollama](https://github.com/kevinthedang/discord-ollama)
+List/Info Projects:
+* [List Vault](https://github.com/kevinthedang/lists-vault): Setup for Services and Languages on my Home Server
+
+Main Project: 
+* [Discord Bot that uses Ollama](https://github.com/kevinthedang/discord-ollama): Discord Chatbot
 
 I am trying to learn the following:
 * Lua and [Ravenfield Modding](https://github.com/kevinthedang/ravenfield-modding)
