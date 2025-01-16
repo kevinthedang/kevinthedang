@@ -1,5 +1,7 @@
 ### Introduction
-Hello! My name is Kevin Dang and I'm an experienced software developer who loves making things that are totally useless just to learn.  
+Hello! My name is Kevin Dang and I'm an experienced software developer who loves making things that are totally useless just to learn.
+
+My Alma Mater, Gonzaga University, posted a [short article](https://www.gonzaga.edu/news-events/stories/2024/8/30/discord-bot) about my main project. Kinda cool.
 
 New Projects:
 * [How to Play Craps](https://github.com/kevinthedang/craps-simulation): Learning Craps and the Statistics/Strategy
