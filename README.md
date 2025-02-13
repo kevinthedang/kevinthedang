@@ -4,6 +4,7 @@ Hello! My name is Kevin Dang and I'm an experienced software developer who loves
 My Alma Mater, Gonzaga University, posted a [short article](https://www.gonzaga.edu/news-events/stories/2024/8/30/discord-bot) about my main project. Kinda cool.
 
 New Projects:
+* [Dice Tracking and Stats Tool](https://github.com/kevinthedang/dice-tracker): Dice tracking for people who want to track their dice rolls (or rolls at the table) so they can get an idea if a table is hot, cold, or inconsistent. Mainly for seeing how someone rolls and if they believe dice setting/control works.
 * [How to Play Craps](https://github.com/kevinthedang/craps-simulation): Learning Craps and the Statistics/Strategy
 * [Ravenfield Modding and 3D Modeling](https://github.com/kevinthedang/ravenfield-modding): Ravenfield is a fun game and I want to learn how to make mods for it!
 
