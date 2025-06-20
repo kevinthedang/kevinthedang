@@ -5,6 +5,7 @@ My Alma Mater, Gonzaga University, posted a [short article](https://www.gonzaga.
 
 Hardware Projects:
 * [Live Bluetooth Scanner](https://github.com/kevinthedang/bluetooth-smart-scanner)
+* Raspberry Pi 5 NAS
 
 List/Info Projects:
 * [List Vault](https://github.com/kevinthedang/lists-vault): Setup for Services and Languages on my Home Server
@@ -14,11 +15,10 @@ Main Project:
 * [Discord Bot that uses Ollama](https://github.com/kevinthedang/discord-ollama): Discord Chatbot
 
 I am trying to learn the following:
+* Backend Infrastructure and Ansible
 * [Lua](https://www.lua.org/) and [Ravenfield Modding](https://github.com/kevinthedang/ravenfield-modding)
 * 3D Modeling with [Blender](https://www.blender.org/)
-* Server Management and Adding Services
 * [Orange PI](http://www.orangepi.org/) and [Raspberry Pi](https://www.raspberrypi.com/) stuff
-* Electrical/Computer Engineering fun stuff
 * Put content on youtube since sometimes Documentation on GitHub is usually just for me lol
 
 #### Useless Social Media Links
