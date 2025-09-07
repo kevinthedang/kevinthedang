@@ -21,6 +21,10 @@ I am trying to learn the following:
 * [Orange PI](http://www.orangepi.org/) and [Raspberry Pi](https://www.raspberrypi.com/) stuff
 * Put content on youtube since sometimes Documentation on GitHub is usually just for me lol
 
+Interesting Quotes:
+1. "All people are born as originals but many die as photocopies" - St. Carlo Acutis
+2. "Sadness is looking at ourselves, happiness is looking towards God." - St. Carlo Acutis
+
 #### Useless Social Media Links
 <div>   
 <a href="https://linkedin.com/in/kevinthedang" target="_blank">
