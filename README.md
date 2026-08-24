@@ -1,10 +1,10 @@
 ### Introduction
-Hello! My name is Kevin Dang and I'm an experienced software developer who loves making things that are totally useless just to learn.
-
-My Alma Mater, Gonzaga University, posted a [short article](https://www.gonzaga.edu/news-events/stories/2024/8/30/discord-bot) about my main project. Kinda cool.
+Hello! My name is Kevin Dang and I'm an experienced software developer who loves tinkering for fun.
 
 Main Project: 
 * [Discord Bot that uses Ollama](https://github.com/kevinthedang/discord-ollama): Discord Chatbot
+  * Gonzaga University posted a [short article](https://www.gonzaga.edu/news-events/stories/2024/8/30/discord-bot) about my main project
+* Maintaining and Developing [Serena Tailoring and Alterations](https://github.com/kevinthedang/serenasews) website
 
 Hardware Projects:
 * [Live Bluetooth Scanner](https://github.com/kevinthedang/bluetooth-smart-scanner)
