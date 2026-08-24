@@ -4,7 +4,7 @@ Hello! My name is Kevin Dang and I'm an experienced software developer who loves
 Main Project: 
 * [Discord Bot that uses Ollama](https://github.com/kevinthedang/discord-ollama): Discord Chatbot
   * Gonzaga University posted a [short article](https://www.gonzaga.edu/news-events/stories/2024/8/30/discord-bot) about my main project
-* Maintaining and Developing [Serena Tailoring and Alterations](https://github.com/kevinthedang/serenasews) website
+* Maintaining and Developing [Serena Tailoring and Alterations](https://serenasews.com) website: 
 
 Hardware Projects:
 * [Live Bluetooth Scanner](https://github.com/kevinthedang/bluetooth-smart-scanner)
