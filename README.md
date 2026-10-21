@@ -2,7 +2,7 @@
 Hello! My name is Kevin Dang and I'm an experienced software developer who loves tinkering for fun.
 
 Main Project: 
-* [Terraria Roguelike Mod](https://github.com/kevinthedang/Ascension): Roguelike Mod for Terraria
+* [Ascension](https://github.com/kevinthedang/Ascension): Roguelike Mod for Terraria
 * [Discord Bot that uses Ollama](https://github.com/kevinthedang/discord-ollama): Discord Chatbot
   * Gonzaga University posted a [short article](https://www.gonzaga.edu/news-events/stories/2024/8/30/discord-bot) about my main project
 * [Pc Build Optimizer](https://github.com/kevinthedang/pc-price-build-engine)
