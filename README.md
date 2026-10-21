@@ -2,15 +2,12 @@
 Hello! My name is Kevin Dang and I'm an experienced software developer who loves tinkering for fun.
 
 Main Project: 
+* [Terraria Roguelike Mod](https://github.com/kevinthedang/Ascension): Roguelike Mod for Terraria
 * [Discord Bot that uses Ollama](https://github.com/kevinthedang/discord-ollama): Discord Chatbot
   * Gonzaga University posted a [short article](https://www.gonzaga.edu/news-events/stories/2024/8/30/discord-bot) about my main project
 * [Pc Build Optimizer](https://github.com/kevinthedang/pc-price-build-engine)
   * Currently just for compatibility. Working on optimizer soon.
 * Maintaining and Developing [Serena Tailoring and Alterations](https://serenasews.com) website
-
-Hardware Projects:
-* [Live Bluetooth Scanner](https://github.com/kevinthedang/bluetooth-smart-scanner)
-* Raspberry Pi 5 NAS
 
 List/Info Projects:
 * [List Vault](https://github.com/kevinthedang/lists-vault): Setup for Services and Languages on my Home Server
