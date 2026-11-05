@@ -8,8 +8,9 @@ Main Projects:
 * [Pc Build Optimizer](https://github.com/kevinthedang/pc-price-build-engine)
   * Currently just for compatibility. Working on optimizer soon.
 
-Client Sites:
+Client Projects:
 * Maintaining and Developing [Serena Tailoring and Alterations](https://serenasews.com) website
+* Developing a WoW Discord bot that tracks dungeon runs called [Azeroth Dungeon Bot](https://github.com/kevinthedang/azeroth-dungeon-bot)
 
 List/Info Projects:
 * [List Vault](https://github.com/kevinthedang/lists-vault): Setup for Services and Languages on my Home Server
