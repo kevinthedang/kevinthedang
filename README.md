@@ -1,21 +1,25 @@
 ### Introduction
 Hello! My name is Kevin Dang and I'm an experienced software developer who loves tinkering for fun.
 
-Main Projects: 
-* [Ascension](https://github.com/kevinthedang/Ascension): Roguelike Mod for Terraria
+I'm working on too many things at once.
+
+Websites:
+* [North County PCs](https://github.com/kevinthedang/northcountypcs)
+* Maintaining and Developing [Serena Tailoring and Alterations](https://serenasews.com) website
+
+Discord Bots:
 * [Discord Bot that uses Ollama](https://github.com/kevinthedang/discord-ollama): Discord Chatbot
   * Gonzaga University posted a [short article](https://www.gonzaga.edu/news-events/stories/2024/8/30/discord-bot) about my main project
-* [Pc Build Optimizer](https://github.com/kevinthedang/pc-price-build-engine)
-  * Currently just for compatibility. Working on optimizer soon.
-
-Client Projects:
-* Maintaining and Developing [Serena Tailoring and Alterations](https://serenasews.com) website
 * Developing a WoW Discord bot that tracks dungeon runs called [Azeroth Dungeon Bot](https://github.com/kevinthedang/azeroth-dungeon-bot)
+
+Mod Projects: 
+* [Ascension](https://github.com/kevinthedang/Ascension): Roguelike Mod for Terraria
+* [Ravenfield Modding and 3D Modeling](https://github.com/kevinthedang/ravenfield-modding): Ravenfield is a fun game and I want to learn how to make mods for it!
+  * [Lua](https://www.lua.org/)
 
 List/Info Projects:
 * [List Vault](https://github.com/kevinthedang/lists-vault): Setup for Services and Languages on my Home Server
-* [Ravenfield Modding and 3D Modeling](https://github.com/kevinthedang/ravenfield-modding): Ravenfield is a fun game and I want to learn how to make mods for it!
-  * [Lua](https://www.lua.org/)
+* [Ansible Learning](https://github.com/kevinthedang/ansible-list)
 
 Interesting Quotes:
 1. "All people are born as originals but many die as photocopies" - St. Carlo Acutis
